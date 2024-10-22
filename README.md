@@ -1,0 +1,2 @@
+# DeviseRate
+application DEVISE
